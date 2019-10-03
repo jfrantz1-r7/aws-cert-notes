@@ -11,6 +11,7 @@
 -   [AWS re:Invent 2018: [REPEAT 1] Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1) - YouTube](https://www.youtube.com/watch?v=YQsK4MtsELU)
 -   [AWS re:invent 2017: Best Practices for Implementing AWS Key Management Service (SID330) - YouTube](https://www.youtube.com/watch?v=X1eZjXQ55ec)
 -   Linux Academy AWS: SS course
+- [Security Labs from AWS](https://github.com/awslabs/aws-well-architected-labs/tree/master/Security)
 
 ## Practice exams:
 
